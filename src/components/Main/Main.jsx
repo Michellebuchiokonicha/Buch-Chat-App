@@ -65,7 +65,7 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Gemini may display inacurrate info, including people, so
+            Buch app may display inacurrate info, including people, so
             double-check
           </p>
         </div>
