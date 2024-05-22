@@ -16,13 +16,13 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
-        <p>Gemini</p>
-        <img src={assets.user_icon} alt="" />
+        <p>Buch App</p>
+        <img src={assets.mimi_icon} alt="" />
       </div>
       <div className="main-container">
         <div className="greet">
           <p>
-            <span>Hello, Miimi</span>
+            <span>Hello, Mimi</span>
           </p>
           <p>How can I help you today</p>
         </div>
